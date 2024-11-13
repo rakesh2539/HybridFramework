@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-13T17:08:14 IST" name="Suite" finished-at="2024-11-13T17:08:34 IST" duration-ms="19717">
+  <suite started-at="2024-11-13T19:32:43 IST" name="Suite" finished-at="2024-11-13T19:32:52 IST" duration-ms="8676">
     <groups>
     </groups>
-    <test started-at="2024-11-13T17:08:14 IST" name="Test" finished-at="2024-11-13T17:08:34 IST" duration-ms="19717">
+    <test started-at="2024-11-13T19:32:43 IST" name="Test" finished-at="2024-11-13T19:32:52 IST" duration-ms="8676">
       <class name="test_cases.LoginTest">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T17:08:15 IST" name="setup" finished-at="2024-11-13T17:08:27 IST" duration-ms="12281" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T19:32:43 IST" name="setup" finished-at="2024-11-13T19:32:48 IST" duration-ms="4774" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T17:08:30 IST" name="LoginTest" data-provider="getdata" finished-at="2024-11-13T17:08:32 IST" duration-ms="1787" status="PASS">
+        <test-method signature="LoginTest(java.lang.String,java.lang.String)[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T19:32:49 IST" name="LoginTest" data-provider="getdata" finished-at="2024-11-13T19:32:51 IST" duration-ms="2427" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,11 +39,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LoginTest -->
-        <test-method signature="LogoutTest()[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T17:08:32 IST" name="LogoutTest" finished-at="2024-11-13T17:08:32 IST" duration-ms="444" status="PASS">
+        <test-method signature="LogoutTest()[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T19:32:51 IST" name="LogoutTest" finished-at="2024-11-13T19:32:52 IST" duration-ms="332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogoutTest -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T17:08:32 IST" name="teardown" finished-at="2024-11-13T17:08:34 IST" duration-ms="1260" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:test_cases.LoginTest@b78a709]" started-at="2024-11-13T19:32:52 IST" name="teardown" finished-at="2024-11-13T19:32:52 IST" duration-ms="258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
